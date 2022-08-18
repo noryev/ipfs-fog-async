@@ -1,4 +1,4 @@
-# ipfs-fog [File-on-Git exported to IPFS with doc registry]
+# ipfs-fog [File-on-Git exported to IPFS with a configurable document registry]
 
 
 

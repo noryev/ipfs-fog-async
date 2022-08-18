@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          File-on-Git exported to IPFS with doc registry
+          File-on-Git exported to IPFS with a configurable document registry
         </p>
         <a
           className="App-link"
