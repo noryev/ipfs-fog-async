@@ -1,7 +1,5 @@
 # ipfs-fog [File-on-Git exported to IPFS with a configurable document registry]
 
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -35,4 +33,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-# Start by adding a database table and Git to version the objects uploaded
+## Start by adding a database table and Git to version the objects uploaded
