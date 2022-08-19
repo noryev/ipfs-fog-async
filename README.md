@@ -1,6 +1,6 @@
 # ipfs-fog [File-on-Git exported to IPFS with a configurable document registry]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
